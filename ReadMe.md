@@ -1,6 +1,6 @@
 ![logo](https://github.com/JayZ6969/JayZ6969/blob/main/Hello%2C%20my%20name%20is%20Jayasheel.%20Nice%20to%20meet%20you.%20(1).png)
 
-# Hello World 👋 !!
+
 
 ## 💫 About Me:
 🔭 I'm currently working on Front-End Development for FORCE-forum website<br>🌱 I'm currently learning Front-End Web Development<br>💬 Ask me about C, Python, MySQL<br>📫 How to reach me: jayasheelvinayj.work@gmail.com<br>⚡ Fun fact: I learnt Python before C 
