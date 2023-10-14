@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/JayZ6969/JayZ6969/blob/main/Hello%2C%20my%20name%20is%20Jayasheel.%20Nice%20to%20meet%20you.%20(1).png)
 
 # Hello World 👋 !!
 
