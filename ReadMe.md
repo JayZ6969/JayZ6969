@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayz6969" alt="jayz6969" /></a> </p>
-
 - 🔭 I’m currently working on FORCE-Forum Website [FORCE-Website](https://github.com/EventsAtForce/eventsatforce.github.io)
 
 - 🌱 I’m currently learning **TensorFlow,Flutter**
