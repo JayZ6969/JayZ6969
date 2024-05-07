@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jayasheel Vinay</h1>
+<h1 align="center">Hi 👋, I'm Jayasheel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
-- 🔭 I’m currently working on FORCE-Forum Website [FORCE-Website](https://github.com/EventsAtForce/eventsatforce.github.io)
+- 🔭 I’m currently working on [FORCE-Forum Website](https://github.com/EventsAtForce/eventsatforce.github.io)
 - 🌱 I’m currently learning **TensorFlow & Flutter**
-- 👨‍💻 All of my projects are available at [https://devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
-- 💬 Ask me about **C/C++,Python,Kotlin,MySQL**
+- 👨‍💻 All of my projects and hackathons are available at [https://devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
+- 💬 Ask me about **C/C++, Python, Kotlin, MySQL**
 - 📫 How to reach me **jayasheelvinayj@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/jayasheelvinayj/](https://www.linkedin.com/in/jayasheelvinayj/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
