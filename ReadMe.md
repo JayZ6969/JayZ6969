@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
-- "They see me codin', they hatin'..."
 - 🔭 I’m currently working on [FORCE-Forum Website](https://github.com/EventsAtForce/eventsatforce.github.io)
 - 🌱 I’m currently learning **TensorFlow, Firebase & Flutter**
 - 👨‍💻 All of my projects and hackathons are available at [https://devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
