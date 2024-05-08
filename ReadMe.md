@@ -1,4 +1,4 @@
-<h1 align="center">"They see me codin', they hatin'..."</h1>
+<h3 align="center">"They see me codin', they hatin'..."</h3>
 <h1 align="center">Hi 👋, I'm Jayasheel</h1>
 <h3 align="center">A professional button clicker and font enthusiast</h3>
 
