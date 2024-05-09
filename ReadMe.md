@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects and hackathons are available at [https://devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
 - 💬 Ask me about **C/C++, Python, Kotlin, MySQL**
 - 📫 How to reach me **jayasheelvinayj@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
+- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
