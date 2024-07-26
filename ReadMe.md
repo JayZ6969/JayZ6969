@@ -13,17 +13,17 @@
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://instagram.com/jayasheel.vinay" target="blank">
     <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="40"/>
-  </a>
+  </a width="12">
   <a href="https://linkedin.com/in/jayasheelvinayj" target="blank">
     <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="40"/>
-  </a> 
+  </a width="12"> 
   <a href="https://twitter.com/jayasheelvinay" target="blank">
     <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="40"/>
-  </a>
-</p>
+  </a width="12">
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
