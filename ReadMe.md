@@ -16,13 +16,15 @@
 <div align="left">
   <a href="https://instagram.com/jayasheel.vinay" target="blank">
     <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="40"/>
-  </a width="12">
+  </a>
+  <img width="12" />
   <a href="https://linkedin.com/in/jayasheelvinayj" target="blank">
     <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="40"/>
-  </a width="12"> 
+  </a> 
+  <img width="12" />
   <a href="https://twitter.com/jayasheelvinay" target="blank">
     <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="40"/>
-  </a width="12">
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
