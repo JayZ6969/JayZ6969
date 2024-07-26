@@ -20,29 +20,8 @@
   <a href="https://instagram.com/jayasheel.vinay" target="blank">
     <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/jayasheel vinay j" target="blank">
-    <img align="center" src="src/images/icons/Social/youtube.svg" alt="jayasheel vinay j" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/jayasheelvinay" target="blank">
     <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22414544" target="blank">
-    <img align="center" src="src/images/icons/Social/stack-overflow.svg" alt="22414544" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/jayasheelvinayj" target="blank">
-    <img align="center" src="src/images/icons/Social/kaggle.svg" alt="jayasheelvinayj" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/jayz6969" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jayz6969" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/jayasheelvinayj" target="blank">
-    <img align="center" src="src/images/icons/Social/hackerrank.svg" alt="jayasheelvinayj" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/jayz6969" target="blank">
-    <img align="center" src="src/images/icons/Social/leet-code.svg" alt="jayz6969" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jayz6969profile" target="blank">
-    <img align="center" src="src/images/icons/Social/geeks-for-geeks.svg" alt="jayz6969profile" height="30" width="40" />
   </a>
 </p>
 
