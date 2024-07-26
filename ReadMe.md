@@ -49,13 +49,13 @@
     <img width="12" />
   </a>
   
-  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank" text-decoration="none">
-    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="30"/>
-    <img width="12" />
-  </a> 
-  
   <a href="https://twitter.com/jayasheelvinay" target="blank" text-decoration="none">
     <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="30"/>
     <img width="12" />
   </a>
+
+  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank" text-decoration="none">
+    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="30"/>
+    <img width="12" />
+  </a> 
 </div>
