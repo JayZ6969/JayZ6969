@@ -12,21 +12,6 @@
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://instagram.com/jayasheel.vinay" target="blank" text-decoration="none">
-    <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="40"/>
-  </a>
-  <img width="12" />
-  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank" text-decoration="none">
-    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="40"/>
-  </a> 
-  <img width="12" />
-  <a href="https://twitter.com/jayasheelvinay" target="blank" text-decoration="none">
-    <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="40"/>
-  </a>
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
@@ -55,4 +40,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://instagram.com/jayasheel.vinay" target="blank" text-decoration="none">
+    <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="40"/>
+  </a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank" text-decoration="none">
+    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="40"/>
+  </a> 
+  <img width="12" />
+  <a href="https://twitter.com/jayasheelvinay" target="blank" text-decoration="none">
+    <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="40"/>
+  </a>
 </div>
