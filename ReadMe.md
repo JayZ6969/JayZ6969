@@ -14,14 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank">
-    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/jayasheel.vinay" target="blank">
-    <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="30" width="40" />
+    <img align="center" src="src/images/icons/Social/instagram.svg" alt="jayasheel.vinay" height="40"/>
   </a>
+  <a href="https://linkedin.com/in/jayasheelvinayj" target="blank">
+    <img align="center" src="src/images/icons/Social/linked-in-alt.svg" alt="jayasheelvinayj" height="40"/>
+  </a> 
   <a href="https://twitter.com/jayasheelvinay" target="blank">
-    <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="30" width="40" />
+    <img align="center" src="src/images/icons/Social/twitter.svg" alt="jayasheelvinay" height="40"/>
   </a>
 </p>
 
