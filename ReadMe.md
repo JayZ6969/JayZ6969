@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [FORCE-Forum Website](https://github.com/EventsAtForce/eventsatforce.github.io)
 - 🌱 I’m currently learning **Firebase & Flutter**
 - 👨‍💻 All of my projects and hackathons are available at [devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
-- 💬 Ask me about **C/C++, Python, MySQL**
+- 💬 Ask me about **C/C++, Python & JavaScript**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
