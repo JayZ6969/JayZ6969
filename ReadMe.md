@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
 - 🔭 I’m currently working on [IEEE-ICAECC 2025 Website]([https://github.com/EventsAtForce/eventsatforce.github.io](https://github.com/JayZ6969/IEEE-ICAECC-Website))
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Backend**
 - 👨‍💻 All of my projects and hackathons are available at [devfolio.co/@JayZ6969](https://devfolio.co/@JayZ6969)
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
