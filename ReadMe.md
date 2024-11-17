@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [IEEE-ICAECC 2025 Website](https://github.com/JayZ6969/IEEE-ICAECC-Website)
 - 🌱 I’m currently learning **Backend**
-- 👨‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! check it out at [www.eventsatforce.in](https://www.eventsatforce.in)
+- 👨‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://www.eventsatforce.in)
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
