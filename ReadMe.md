@@ -5,10 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
-- 🔭 I’m currently working on [IEEE-ICAECC 2025 Website](https://github.com/JayZ6969/IEEE-ICAECC-Website)
-- 🌱 I’m currently learning **Backend**
 - 👨‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://www.eventsatforce.in)
 - 💬 Ask me about **C/C++, Python & JavaScript**
+- - 🌱 I’m currently learning **Backend**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
