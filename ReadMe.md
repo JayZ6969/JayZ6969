@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jayasheel</h1>
 <h3 align="center">A professional button clicker and font enthusiast</h3>
 <h3 align="center">"They see me codin', they hatin'..."</h3>
-
+<h3 align="center">Software Engineer Intern @ Ruckus Networks, Commscope!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" /> </p>
 
+- Software Engineer Intern @ Ruckus Networks, Commscope!
 - 👨‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://www.eventsatforce.in)
 - 💬 Ask me about **C/C++, Python & JavaScript**
-- - 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
