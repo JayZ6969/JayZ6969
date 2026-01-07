@@ -7,7 +7,7 @@
 
 - 👨‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://www.eventsatforce.in)
 - 💬 Ask me about **C/C++, Python & JavaScript**
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Embedded Linux Development & Buildroot**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
