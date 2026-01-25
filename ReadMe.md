@@ -8,7 +8,7 @@
 
 - **Software Engineering Intern @ Ruckus Networks, Commscope**
 - ‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://eventsatforce.vercel.app)
-- Im currently working on a project 
+- Also, check out this cool portfolio website I've made: [www.jayasheel.tech](https:/jayasheelportfolio.vercel.app)
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 🌱 I’m currently learning **Embedded Linux Development & Buildroot**
 - 🤖 I make tiny computers do big things - my jam is **Embedded Systems & Automation**
