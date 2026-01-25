@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jayasheel</h1>
-<h2 align="center" style="border-bottom: none; margin-bottom: 15px;">A professional button clicker and font enthusiast</h2>
+<h1 align="center" style="font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</h1>
+<h2 align="center">A professional button clicker and font enthusiast</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" />
@@ -14,7 +14,7 @@
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
-<h2 align="center" style="border-bottom: none; margin-bottom: 15px;">"They see me codin', they hatin'..."</h2>
+<p align="center" style="font-size: 20px; font-weight: 600; border-bottom: none; margin-bottom: 15px;">"They see me codin', they hatin'..."</p>
 
 
 <h1 align="left" style="border-bottom: none; margin-bottom: -15px;">Languages and Tools:</h1>
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=linux,vim,cmake,docker,bash,git,figma,ae,pr,ps,ai"/>
 </div>
 
-<h1 align="left" style="border-bottom: none; margin-bottom: 15px;">Socials:</h1>
+<h1 align="left" >Socials:</h1>
 <div align="center">
   <a href="https://linkedin.com/in/jayasheelvinayj" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jayasheelvinayj" />
