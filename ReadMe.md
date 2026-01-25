@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayasheel</h1>
 <h3 align="center">A professional button clicker and font enthusiast</h3>
+<h3 align="center"><i>"They see me codin', they hatin'..."</i></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" />
@@ -13,9 +14,6 @@
 - 🤖 I make tiny computers do big things - my jam is **Embedded Systems & Automation**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
-
-<h3 align="center"><i>"They see me codin', they hatin'..."</i></h3>
-
 
 <h1 align="left">Languages and Tools:</h1>
 <div align="left">
