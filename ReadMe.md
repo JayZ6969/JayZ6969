@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 26px; font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</p>
+<h1 align="center">Hi 👋, I'm Jayasheel</h1>
 <h3 align="center">A professional button clicker and font enthusiast</h3>
 
 <p align="left">
@@ -14,10 +14,10 @@
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
 
-<p align="center" style="font-size: 20px; font-weight: 600; border-bottom: none; margin-bottom: 15px;">"They see me codin', they hatin'..."</p>
+<h3 align="center"><i>"They see me codin', they hatin'..."</i></h3>
 
 
-<h1 align="left" style="border-bottom: none; margin-bottom: -15px;">Languages and Tools:</h1>
+<h1 align="left">Languages and Tools:</h1>
 <div align="left">
   <h2>Core Programming</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,js,ts,arduino,"/>
