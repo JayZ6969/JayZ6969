@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase,aws,gcp,firebase"/>
   
   <h2>Tools</h2>
-  <img src="https://skillicons.dev/icons?i=linux,vim,cmake,docker,bash,git,figma"/>
+  <img src="https://skillicons.dev/icons?i=linux,vim,cmake,docker,bash,git,figma,ae,pr,ps,ai"/>
 </div>
 
 <h1 align="left" style="border-bottom: none; margin-bottom: 15px;">Socials:</h1>
