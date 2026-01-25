@@ -8,12 +8,12 @@
 
 - **Software Engineering Intern @ Ruckus Networks, Commscope**
 - ‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://eventsatforce.vercel.app)
-- Also, check out this cool portfolio website I've made: [www.jayasheel.tech](https:/jayasheelportfolio.vercel.app)
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 🌱 I’m currently learning **Embedded Linux Development & Buildroot**
+- I am currently working on this project: **Custom Half-Duplex Networking stack for LoRa using FreeRTOS**
 - 🤖 I make tiny computers do big things - my jam is **Embedded Systems & Automation**
 - 📫 You can reach me at **jayasheelvinayj@gmail.com**
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/jayasheelvinayj/)
+- Also, check out this cool portfolio website I've made: [www.jayasheel.tech](https://jayasheelportfolio.vercel.app)
 
 <h1 align="left">Languages and Tools:</h1>
 <div align="left">
