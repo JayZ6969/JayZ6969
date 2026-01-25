@@ -1,5 +1,5 @@
-<p align="center" style="font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</p>
-<h2 align="center">A professional button clicker and font enthusiast</h2>
+<p align="center" style="font-size: 26px; font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</p>
+<h3 align="center">A professional button clicker and font enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" />
