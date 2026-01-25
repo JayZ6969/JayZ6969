@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</h1>
+<p align="center" style="font-weight: 600; border-bottom: none; margin-bottom: -20px;">Hi 👋, I'm Jayasheel</p>
 <h2 align="center">A professional button clicker and font enthusiast</h2>
 
 <p align="left">
