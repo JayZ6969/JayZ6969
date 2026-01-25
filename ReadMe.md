@@ -7,7 +7,7 @@
 </p>
 
 - **Software Engineering Intern @ Ruckus Networks, Commscope**
-- ‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://www.eventsatforce.vercel.app)
+- ‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://eventsatforce.vercel.app)
 - Im currently working on a project 
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 🌱 I’m currently learning **Embedded Linux Development & Buildroot**
