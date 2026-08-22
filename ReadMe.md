@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=jayz6969&label=Profile%20views&color=0e75b6&style=flat" alt="jayz6969" />
 </p>
 
-- **Software Engineering Intern @ Ruckus Networks, Commscope**
+- **Software Engineer @ Ruckus Networks, Commscope**
 - ‍💻 One of my biggest project, FORCE - FORUM Website is up and live ! Take a look at [www.eventsatforce.in](https://eventsatforce.vercel.app)
 - 💬 Ask me about **C/C++, Python & JavaScript**
 - 🌱 I’m currently learning **Embedded Linux Development & Buildroot**
